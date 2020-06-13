@@ -1,9 +1,9 @@
 WEEK 1 ROADMAP
 **Core Java/Programming :**
 
-- Data Types and Variables
-- String Class
-- Arithmetic Operators & Concatenation operators
+- Data Types and Variables-Finished
+- String Class- Completed what is String,why string is immutable,diference between == and .equals and functions with Strings
+- Arithmetic Operators & Concatenation operators-Finished
 - Conditional & Decision Making
 - Single Dimensional Array
 - Loops (For, While)
